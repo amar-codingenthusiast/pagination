@@ -44,7 +44,17 @@ To run this project locally:
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements. Alternatively, you can open an issue to suggest improvements or report bugs.
 
+
+## Deployment
+
+This Pagination project is deployed on GitHub Pages, allowing you to explore its features and functionalities.
+
+### Accessing the Deployed Site
+
+You can access the deployed site by following this link: [Pagination](https://amar-codingenthusiast.github.io/pagination)
+
+Feel free to explore the site and experience its features firsthand!
+
 ## License
 
-This project is open-sourced under the MIT license. See the LICENSE file for more details.
-
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for more information.
